@@ -1,0 +1,158 @@
+    versionName=6.0.2
+DATE: 2020-07-29 11:13:17
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:     1408
+         Native Heap:    86008
+                Code:    64464
+               Stack:       60
+            Graphics:    81852
+       Private Other:    35984
+              System:    36324
+ 
+               TOTAL:   306100       TOTAL SWAP PSS:       23
+ 
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:     1408
+         Native Heap:    86008
+                Code:    64464
+               Stack:       60
+            Graphics:    81852
+       Private Other:    35988
+              System:    36324
+ 
+               TOTAL:   306104       TOTAL SWAP PSS:       23
+ 
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:     1408
+         Native Heap:    85952
+                Code:    64464
+               Stack:       60
+            Graphics:    81852
+       Private Other:    35928
+              System:    36324
+ 
+               TOTAL:   305988       TOTAL SWAP PSS:       23
+ 
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:     1408
+         Native Heap:    86016
+                Code:    64464
+               Stack:       60
+            Graphics:    81852
+       Private Other:    37092
+              System:    36324
+ 
+               TOTAL:   307216       TOTAL SWAP PSS:       23
+ 
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:     1408
+         Native Heap:    86020
+                Code:    64464
+               Stack:       60
+            Graphics:    81852
+       Private Other:    36140
+              System:    36324
+ 
+               TOTAL:   306268       TOTAL SWAP PSS:       23
+ 
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:     1408
+         Native Heap:    86000
+                Code:    64464
+               Stack:       60
+            Graphics:    81852
+       Private Other:    36168
+              System:    36324
+ 
+               TOTAL:   306276       TOTAL SWAP PSS:       23
+ 
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:     1408
+         Native Heap:    86000
+                Code:    64464
+               Stack:       60
+            Graphics:    81852
+       Private Other:    36120
+              System:    36324
+ 
+               TOTAL:   306228       TOTAL SWAP PSS:       23
+ 
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:     1408
+         Native Heap:    85996
+                Code:    64464
+               Stack:       60
+            Graphics:    81852
+       Private Other:    36124
+              System:    36324
+ 
+               TOTAL:   306228       TOTAL SWAP PSS:       23
+ 
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:     1408
+         Native Heap:    85996
+                Code:    64464
+               Stack:       60
+            Graphics:    81852
+       Private Other:    36176
+              System:    36324
+ 
+               TOTAL:   306280       TOTAL SWAP PSS:       23
+ 
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:     1408
+         Native Heap:    85996
+                Code:    64464
+               Stack:       60
+            Graphics:    81852
+       Private Other:    36116
+              System:    36324
+ 
+               TOTAL:   306220       TOTAL SWAP PSS:       23
+ 
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:     1408
+         Native Heap:    85996
+                Code:    64464
+               Stack:       60
+            Graphics:    81852
+       Private Other:    36116
+              System:    36324
+ 
+               TOTAL:   306220       TOTAL SWAP PSS:       23
+ 
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:     1408
+         Native Heap:    85984
+                Code:    64464
+               Stack:       60
+            Graphics:    81852
+       Private Other:    36128
+              System:    36324
+ 
+               TOTAL:   306220       TOTAL SWAP PSS:       23
+ 
